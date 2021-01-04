@@ -1,0 +1,6 @@
+.root .button{
+    -fx-background-color:  #128C7E;
+    /*-fx-background-color:  #343F44;*/
+    -fx-border-color: black;
+    -fx-border-radius: 1.5em;
+}
