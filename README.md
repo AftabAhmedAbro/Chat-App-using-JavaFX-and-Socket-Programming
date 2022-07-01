@@ -1,9 +1,9 @@
 # DSA-Project
 # Project Members
-Aftab Ahmed
+<ol>Aftab Ahmed
 Javeria Mukhtiar
 Mir Hussain
-Momin Khan
+Momin Khan</ol>
 # DSA Project Fall 2020
 
 This is simple java application which can be run without installation 
