@@ -1,13 +1,13 @@
 # DSA-Project
+
 # Project Members
-<ol>Aftab Ahmed
+Aftab Ahmed
 Javeria Mukhtiar
 Mir Hussain
-Momin Khan</ol>
-# DSA Project Fall 2020
+Momin Khan
 
-This is simple java application which can be run without installation 
-Semester : BSCS 3 Section B.
+#This is simple java application which can be run without installation 
+
 
 Instructor: Saif Hassan
 
