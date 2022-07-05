@@ -1,4 +1,4 @@
-# DSA-Project
+# Chat App in JavaFX using Socket Programming
 
 # Project Members
 Aftab Ahmed
